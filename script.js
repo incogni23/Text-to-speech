@@ -7,51 +7,51 @@ const closeBtn = document.getElementById('close');
 
 const data = [
   {
-    image: './img/drink.jpg',
+    image: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg',
     text: "I'm Thirsty"
   },
   {
-    image: './img/food.jpg',
+    image: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg',
     text: "I'm Hungry"
   },
   {
-    image: './img/tired.jpg',
+    image: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg',
     text: "I'm Tired"
   },
   {
-    image: './img/hurt.jpg',
+    image: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg',
     text: "I'm Hurt"
   },
   {
-    image: './img/happy.jpg',
+    image: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg',
     text: "I'm Happy"
   },
   {
-    image: './img/angry.jpg',
+    image: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg',
     text: "I'm Angry"
   },
   {
-    image: './img/sad.jpg',
+    image: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg',
     text: "I'm Sad"
   },
   {
-    image: './img/scared.jpg',
+    image: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg',
     text: "I'm Scared"
   },
   {
-    image: './img/outside.jpg',
+    image: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg',
     text: 'I Want To Go Outside'
   },
   {
-    image: './img/home.jpg',
+    image: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg',
     text: 'I Want To Go Home'
   },
   {
-    image: './img/school.jpg',
+    image: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg',
     text: 'I Want To Go To School'
   },
   {
-    image: './img/grandma.jpg',
+    image: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg',
     text: 'I Want To Go To Grandmas'
   }
 ];
